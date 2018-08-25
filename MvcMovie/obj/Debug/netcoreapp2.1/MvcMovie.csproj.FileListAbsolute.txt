@@ -30,3 +30,4 @@ C:\Users\pmcdermott\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMo
 C:\Users\pmcdermott\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.dll
 C:\Users\pmcdermott\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.pdb
 C:\Users\pmcdermott\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.csproj.CopyComplete
+C:\Users\pmcdermott\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Index.g.cshtml.cs
